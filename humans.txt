@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Martin Rusev	marto260503@abv.bg	ig@
 
 # THANKS
 
